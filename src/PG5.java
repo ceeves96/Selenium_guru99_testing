@@ -13,6 +13,7 @@ public class PG5 {
 
     public static void main(String [] args) {
         //does this change in github
+        //view this change
         //set up web driver
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\6601\\Documents\\Training\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
