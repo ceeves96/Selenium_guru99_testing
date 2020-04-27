@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class FormsAndWebDriver {
 
 
-    public static void Main(String[] args){
+    public static void main(String[] args){
         findingElements1();
     }
 
